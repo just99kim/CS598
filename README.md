@@ -14,5 +14,5 @@ Steps include: generating a list of patient IDs with their diagnosis, clinical d
 
 
 **Training and Evaluation:**
-Uni-modal model baseline and multimodal architecture are trained and evaluated
+Uni-modal model baselines for clinical, imaging and genetics data as well as a multimodal architecture model were trained and evaluated
 
